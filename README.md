@@ -1,4 +1,7 @@
 <h1 align="center">Hola 👋, Mi nombre es Ricardo Diaz</h1>
+<p  align="center">Jujuy, Argentina</p>
+
+<h3 align="letf">Sobre mi</h3>
 
 <p align="letf">También conocido como Dionel22 en github</p>
 <p>
