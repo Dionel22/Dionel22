@@ -2,7 +2,8 @@
 
 <p align="letf">También conocido como Dionel22 en github</p>
 <p>
- 👨🏽‍💻 Soy desarrollador Full Stack en Henry Bootcamp.
+ 👨🏽‍💻 Soy Desarrollador de Web Full Stack del Bootcamp (HENRY) con experiencia integrando equipos con base en tecnologias agiles de planeacion(SCRUM ) y la creación del proyecto grupal con React, Redux, PostgreSQL, Express, Node js, HTML, CSS, JavaScript y Sequelize.
+
 </p>
 
 
