@@ -1,6 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es Ricardo Diaz</h1>
 
-<h3 align="left">¿Quien soy?</h3>
 <p align="letf">También conocido como Dionel22 en github</p>
 <p>
  👨🏽‍💻 Soy desarrollador Full Stack en Henry Bootcamp.
