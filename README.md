@@ -9,6 +9,7 @@
 <p>
  👨🏽‍💻 Soy Desarrollador Web Full Stack con experiencia integrando equipos con base en tecnologías agiles de planeación(SCRUM ) y la creación del proyecto grupal con React, Redux, PostgreSQL, Express, Node js, HTML, CSS, JavaScript y Sequelize.
 
+Me gustaría la oportunidad de trabajar y conseguir mas experiencia.
 </p>
 <br>
 
