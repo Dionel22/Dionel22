@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es Ricardo Diaz</h1>
-<p  align="center">Jujuy, Argentina</p>
+<h3  align="center">Jujuy, Argentina </h3>
 
 
 <br>
@@ -7,7 +7,7 @@
 
 <p align="letf">También conocido como Dionel22 en github</p>
 <p>
- 👨🏽‍💻 Soy Desarrollador de Web Full Stack del Bootcamp (HENRY) con experiencia integrando equipos con base en tecnologias agiles de planeacion(SCRUM ) y la creación del proyecto grupal con React, Redux, PostgreSQL, Express, Node js, HTML, CSS, JavaScript y Sequelize.
+ 👨🏽‍💻 Soy Desarrollador Web Full Stack con experiencia integrando equipos con base en tecnologías agiles de planeación(SCRUM ) y la creación del proyecto grupal con React, Redux, PostgreSQL, Express, Node js, HTML, CSS, JavaScript y Sequelize.
 
 </p>
 <br>
