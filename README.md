@@ -1,7 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es Ricardo Diaz</h1>
 <h3  align="center">Jujuy, Argentina </h3>
-
-
 <br>
 <h3 align="letf">Sobre mi</h3>
 
