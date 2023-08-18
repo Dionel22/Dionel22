@@ -4,7 +4,7 @@
 <h3 align="letf">Sobre mi</h3>
 
 <p align="letf">También conocido como Dionel22 en github</p>
-<p>👨🏽‍💻 Soy un Desarrollador Web Full Stack graduado del Bootcamp de Soy Henry, con experiencia en la integración de equipos ágiles utilizando metodologías como SCRUM. He trabajado en la creación exitosa de proyectos grupales utilizando tecnologías como React, Redux, PostgreSQL, Express, Node.js, HTML, CSS y JavaScript. Estoy apasionado por seguir aprendiendo y manteniéndome al día con las últimas tendencias en desarrollo web. ¡Estoy emocionado de llevar mis habilidades y experiencia a nuevos desafíos y contribuir al éxito de proyectos innovadores!</p>
+<p>👨🏽‍💻 Soy un Desarrollador Web Full Stack graduado del Bootcamp de Soy Henry, con experiencia en la integración de equipos ágiles utilizando metodologías como SCRUM. He trabajado en la creación exitosa de proyectos grupales utilizando tecnologías como React, Redux, PostgreSQL, Express, Node.js, HTML, CSS y JavaScript. ¡Estoy emocionado de llevar mis habilidades y experiencia a nuevos desafíos y contribuir al éxito de proyectos innovadores!</p>
 
 <br>
 
